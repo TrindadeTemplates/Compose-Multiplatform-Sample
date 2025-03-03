@@ -1,7 +1,7 @@
 [versions]
 kotlin = "2.0.20"
 agp = "8.8.2"
-compose = "1.8.0-SNAPSHOT+pull-1739"
+compose = "1.8.0-SNAPSHOT+pull-5245"
 androidx-appcompat = "1.7.0"
 androidx-activityCompose = "1.10.0"
 kotlinx-coroutines = "1.9.0"
